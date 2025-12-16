@@ -6,7 +6,7 @@ Building scalable ERP systems and automation tools.
 ---
 
 ## 🧠 About Me
-I specialize in **Odoo 18 Enterprise**, system architecture, and clean, maintainable code.  
+I specialize in **Odoo 15,16,17,18 Community/Enterprise**, system architecture, and clean, maintainable code.  
 I design business-critical systems, optimize workflows, and turn complex logic into reliable software.
 
 ---
