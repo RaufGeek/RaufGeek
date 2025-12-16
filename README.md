@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rauf Aliyev
 
-Senior Odoo Developer • Full-Stack Engineer • System Architect  
+Middle Odoo Developer • Full-Stack Engineer • System Architect  
 Building scalable ERP systems and automation tools.
 
 ---
