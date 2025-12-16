@@ -34,4 +34,4 @@ Clean architecture, systems thinking, long-term maintainability.
 ---
 
 📬 Open to remote work & consulting  
-🌍 Based in Türkiye | Working globally
+🌍 Based in Türkiye and Azerbaijan | Working globally
